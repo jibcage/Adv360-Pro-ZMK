@@ -39,8 +39,8 @@
 
         default_layer {
             bindings = <
-        &kp EQUAL     &kp N1     &kp N2    &kp N3     &kp N4  &kp N5            &macro_sigint                                                                             &caps_word  &kp N6  &kp N7    &kp N8    &kp N9    &kp N0  &kp MINUS
-          &kp TAB    &kp SQT  &kp COMMA   &kp DOT      &kp P   &kp Y              &key_repeat                                                                            &macro_undo   &kp F   &kp G     &kp C     &kp R     &kp L   &kp FSLH
+        &kp EQUAL     &kp N1     &kp N2    &kp N3     &kp N4  &kp N5              &key_repeat                                                                             &caps_word  &kp N6  &kp N7    &kp N8    &kp N9    &kp N0  &kp MINUS
+          &kp TAB    &kp SQT  &kp COMMA   &kp DOT      &kp P   &kp Y            &macro_sigint                                                                            &macro_undo   &kp F   &kp G     &kp C     &kp R     &kp L   &kp FSLH
  &kp LEFT_CONTROL      &kp A      &kp O     &kp E      &kp U   &kp I                   &tog 1  &kp LEFT_COMMAND  &kp LALT                    &kp ESC  &kp RIGHT_COMMAND        &mo 3   &kp D   &kp H     &kp T     &kp N     &kp S   &kp BSLH
         &kp LSHFT   &kp SEMI      &kp Q     &kp J      &kp K   &kp X                                             &kp HOME                  &kp PG_UP                                   &kp B   &kp M     &kp W     &kp V     &kp Z  &kp RSHFT
             &mo 2  &kp GRAVE   &kp CAPS  &kp LEFT  &kp RIGHT                         &kp BSPC           &kp DEL   &kp END                  &kp PG_DN          &kp ENTER    &kp SPACE          &kp UP  &kp DOWN  &kp LBKT  &kp RBKT      &mo 2
