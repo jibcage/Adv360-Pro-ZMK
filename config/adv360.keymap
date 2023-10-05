@@ -62,7 +62,7 @@
  &kp F1         &kp F2  &kp F3          &kp F4      &kp F5  &kp F6            &tog 1                                                                 &mo 3  &kp F7           &kp F8             &kp F9          &kp F10  &kp F11  &kp F12
  &trans  &macro_quotes  &trans          &trans      &trans  &trans             &none                                                           &macro_redo  &trans           &trans             &trans           &trans   &trans   &trans
  &trans         &trans  &trans          &trans      &trans  &trans             &none  &trans      &trans                  &trans  &trans             &none  &trans           &trans             &trans           &trans   &trans   &trans
-  &mo 4         &trans  &trans          &trans      &trans  &trans                                &trans                  &trans                            &trans           &trans             &trans           &trans   &trans   &trans
+  &mo 4         &trans  &trans          &trans      &trans  &trans                                &trans                  &trans                            &trans           &trans             &trans           &trans   &trans    &mo 4
  &trans         &trans  &trans  &kp K_PREVIOUS  &kp K_NEXT                    &trans  &trans  &kp K_MUTE                  &trans  &trans  &kp K_PLAY_PAUSE          &kp K_VOLUME_UP  &kp K_VOLUME_DOWN  &macro_brackets   &trans   &trans
             >;
         };
